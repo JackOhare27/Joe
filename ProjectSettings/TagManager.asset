@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - smacker
+  - enemy
+  - GameManager
+  - spawnController
+  - Weapon
+  - Props
+  - EventSystem
+  - Health0
+  - Health1
+  - Health2
+  - Health3
+  - uiselect
+  - body0
+  - accessories0
+  - body1
+  - body2
+  - body3
+  - accessories1
+  - accessories2
+  - accessories3
+  - Icon0
+  - Icon1
+  - Icon2
+  - Icon3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
